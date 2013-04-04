@@ -1,0 +1,749 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-repeat"
+			],
+			[
+				"set",
+				"setFilterMode"
+			],
+			[
+				"Ksc",
+				"KScope"
+			],
+			[
+				"get",
+				"getTileCount"
+			],
+			[
+				"tile",
+				"tileArray"
+			],
+			[
+				"gro",
+				"groupName"
+			],
+			[
+				"wid",
+				"widget"
+			],
+			[
+				"se",
+				"selectedServer"
+			],
+			[
+				"Ks",
+				"KScope"
+			],
+			[
+				"ads",
+				"adsResponse"
+			],
+			[
+				"pro",
+				"proxies"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"dev",
+				"deviceID"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"hide",
+				"hidePage"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"show",
+				"showPage"
+			],
+			[
+				"cli",
+				"clicked"
+			],
+			[
+				"ad",
+				"adsResponse"
+			],
+			[
+				"lo",
+				"longitude"
+			],
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"re",
+				"Request"
+			],
+			[
+				"fil",
+				"fileRead"
+			],
+			[
+				"web",
+				"webapp"
+			],
+			[
+				"wam",
+				"wamUpload"
+			],
+			[
+				"xml",
+				"xmlText"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"borde",
+				"border-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Nokia/nokia.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 188.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/index.html",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/css/240x320.css",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/nokia_ad_module.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/ads_box.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/stub.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/css/kismet.css",
+		"/Users/chinnapp/Nokia Now-BM/s40-theme/js/KScope.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/templates/personal-data.html",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/filters.js",
+		"/Users/chinnapp/Nokia Now-BM/s40-theme/css/kismet.css",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/log.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/KScope.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/config.xml",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/_KScope.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/locales/en/style.css",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/locales/fr/strings.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/style.css",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/strings.js",
+		"/Users/chinnapp/Documents/andriod-workspace/kaleidoscope/assets/www/s40-theme/js/KScope.js",
+		"/Users/chinnapp/Documents/andriod-workspace/kaleidoscope/assets/www/index.html",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/iaa_conf.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/css/240x400.css",
+		"/Users/chinnapp/Desktop/python-scripts/wam.py",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/templates/error.html",
+		"/Applications/Google Chrome Canary.app/Contents/Info.plist",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/Group.js",
+		"/Users/chinnapp/Library/Application Support/Sublime Text 2/Packages/Google Closure/Google Closure.sublime-build",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/inneractive_ad_module.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/KScope-backup.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/locale.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/templates/_about.html",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/templates/_about2.html",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/test.html",
+		"/Users/chinnapp/Downloads/jquery_micro_template.v.kbcu/jquery_micro_template.js",
+		"/Users/chinnapp/Downloads/jquery_micro_template.v.kbcu/example.htm",
+		"/Users/chinnapp/Nokia Now-BM/KScope.js",
+		"/Users/chinnapp/Desktop/python-scripts/request.py",
+		"/Users/chinnapp/Nokia Now-BM/s40-theme/templates/terms-conditions.html",
+		"/Users/chinnapp/Desktop/python-scripts/test.py",
+		"/Users/chinnapp/Desktop/python-scripts/network.py",
+		"/Users/chinnapp/Desktop/python-scripts/short-url.py",
+		"/Users/chinnapp/Desktop/python-scripts/google.py",
+		"/Users/chinnapp/Desktop/python-scripts/hello.py",
+		"/Users/chinnapp/Nokia Now-BM/s40-theme/templates/error.html",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/templates/loading.html",
+		"/Users/chinnapp/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/_index.html",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/templates/settings.html",
+		"/Users/chinnapp/Kaleidoscope-WebApp/kscope.sublime-project",
+		"/Users/chinnapp/Library/Application Support/Sublime Text 2/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/templates/_loading.html",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/widget.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/nokia-ad-module.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/_nokia-ad-module.js",
+		"/Users/chinnapp/Kaleidoscope-WebApp/Nokia Now-BM/s40-theme/js/inneractive_nokia_S40.js",
+		"/Users/chinnapp/Library/Application Support/Sublime Text 2/Packages/Nokia/nokia.sublime-build",
+		"/Users/chinnapp/Library/Application Support/Sublime Text 2/Packages/Nokia/Nokia.py",
+		"/Users/chinnapp/Kaleidoscope-WebApp/.gitignore",
+		"/Users/chinnapp/Desktop/python-scripts/r_network.py",
+		"/Users/chinnapp/Desktop/python-scripts/webapp/project/index.html",
+		"/Users/chinnapp/Desktop/python-scripts/wam-response.xml",
+		"/Users/chinnapp/Desktop/python-scripts/webapp/project/s40-theme/js/s40-theme.js",
+		"/Users/chinnapp/Desktop/python-scripts/webapp/project/s40-theme/js/screensize.js",
+		"/Users/chinnapp/Desktop/python-scripts/zip.py",
+		"/Users/chinnapp/Desktop/python-scripts/xml-parse.py",
+		"/Users/chinnapp/Desktop/python-scripts/webapp/project/config.xml",
+		"/Users/chinnapp/Desktop/python-scripts/webapp/webapp.sublime-project",
+		"/Users/chinnapp/Library/Application Support/Sublime Text 2/Packages/CSS/css_completions.py",
+		"/Users/chinnapp/Library/Application Support/Sublime Text 2/Pristine Packages/CSS.sublime-package",
+		"/Users/chinnapp/Desktop/python-scripts/webapp/webapp.sublime-workspace",
+		"/Users/chinnapp/Sites/k360/index.html",
+		"/Users/chinnapp/Desktop/python-scripts/tmp/readme.txt",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Users/chinnapp/Documents/Kaleidoscope/Nokia Xpress Now-Jack/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Controller/Component/WamComponent.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Console/Command/settings.json",
+		"/Users/chinnapp/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Elements/banners.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Controller/ProjectsController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Layouts/workflow.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Controller/ScenesController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Controller/UsersController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Layouts/default.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Config/database.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/logs.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Model/User.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Projects/home.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Projects/dashboard.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Model/_User.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Layouts/admin.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Elements/failure.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/webroot/js/admin.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/webroot/js/common.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/webroot/designs/css/client.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/webroot/css/admin.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Elements/info.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Elements/success.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/webroot/css/client.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/webroot/js/plugin/bootstrap-1.0/bootstrap-modified.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Model/Project.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Controller/Component/PackageComponent.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/setup/setup-osx.sh",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/setup/setup.sh",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Config/database.php.default",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Config/core.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/setup/mac.sh",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/webroot/playground/sass/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/webroot/playground/sass/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Templates/listing.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Users/index.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/View/Webapps/index.ctp",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Controller/TemplatesController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Controller/WidgetsController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/webroot/playground/sass/style.sass",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/lib/Cake/Model/Datasource/Database/Mysql.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/setup/default.properties",
+		"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/setup/build.sh",
+		"/Applications/MAMP/htdocs/AppWizard-Beta/setup/setup.sh",
+		"/Applications/MAMP/htdocs/AppWizard-Beta/setup/default.properties",
+		"/Applications/MAMP/conf/apache/httpd.conf",
+		"/Applications/MAMP/logs/apache_error_log",
+		"/Applications/MAMP/htdocs/AppWizard-Beta/app/Controller/ProjectsController.php",
+		"/Applications/MAMP/htdocs/AppWizard/app/Controller/ProjectsController.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/XAMPP/xamppfiles/htdocs/AppWizard-Beta/app/Controller"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"filter-title",
+			"clearpersonal",
+			"likeAllStoryURLs()",
+			"\n			",
+			"verview",
+			"METADATA",
+			"clearPersonalData",
+			"clearPers",
+			"addSwipeListenerScript",
+			"renderFilter",
+			"setFilter\n\n\nsetFilter",
+			"setFilter",
+			"renderFilter",
+			"clearpersonaldata()",
+			"addClass",
+			"full-story",
+			"Analytics.logEvent(",
+			"filters-title",
+			"staging_BM",
+			"secure_BM",
+			"secure_staging",
+			"loadPreference",
+			"secure_staging",
+			"filters-",
+			"filters-title",
+			"#filters-title-icon",
+			", proxies=proxies)",
+			"Kismet.setFil",
+			"Kismet",
+			"Kscope",
+			";\n		this.",
+			";\n	\n		this.",
+			"= function",
+			"filters-title-text",
+			"setFilterMode",
+			"showTileViewWithFilter",
+			"setFilterMode",
+			"ss-header",
+			"filters-title",
+			"filters-title-hot",
+			"filters-",
+			"filters-title-icon",
+			"#verview",
+			"image",
+			"positive-action",
+			"btn",
+			"menu",
+			"generateFilterPopupHTML",
+			"filter",
+			"$.ajax",
+			"Group(",
+			"function()",
+			"self.start",
+			"self.reqFilter",
+			"new Group(",
+			"Group(",
+			"function(",
+			"compiled",
+			"compiled_code",
+			"datadata",
+			"this.",
+			"this.i",
+			"self.gtiles",
+			"self.i",
+			"self.data",
+			"self.groupName",
+			"this.",
+			"METADATA['logging']",
+			"METADATA['countryCode']",
+			"METADATA['deviceID']",
+			"=[",
+			" +=\"",
+			"+='",
+			"outputstr+='",
+			"}else",
+			"if(",
+			"i<",
+			"){",
+			"else{",
+			"function(){",
+			"_METADATA",
+			"_SERVERS",
+			"_LAZY_LOADING",
+			"_METADATA",
+			"_SERVERS",
+			"_LAZY_LOADING",
+			"_DEBUG_MODE",
+			"_DEFAULT_SERVER",
+			"=",
+			"+=",
+			"=",
+			"=\"",
+			"==",
+			"=\"",
+			"this.",
+			"_self",
+			"this.",
+			"_self",
+			"terms-cond",
+			"error",
+			"error-page",
+			"setServerDetails",
+			"serverURL",
+			"loadDeviceMetaData",
+			"active-reload-btn",
+			"ani-status-loading",
+			"toolbar-3",
+			"toolbar-1",
+			"loading",
+			"\n\nLAZY_LOADING",
+			"LAZY",
+			"TermsAndConditions",
+			"accept",
+			"check",
+			"inneractive.parameters",
+			"ui-window-page",
+			"savesettings",
+			"kscope",
+			"ui-window-page",
+			"paramData",
+			"paramaData",
+			"ani",
+			"Previous",
+			"inactive",
+			"enable",
+			"setStoriesListAndDetailView",
+			"_deviceID",
+			"loadDeviceMetaData"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_METADATA",
+			"secure_staging",
+			"staging_BM",
+			") #, proxies=proxies)",
+			",\n	\n		",
+			": function",
+			"function ()",
+			"reqFilter",
+			"function (",
+			"data",
+			"self.",
+			"index",
+			"gtiles",
+			"index",
+			"data",
+			"groupName",
+			"self.",
+			"METADATA.logging",
+			"METADATA.countryCode",
+			"METADATA.deviceID",
+			" = [",
+			" += \"",
+			"+= '",
+			"outputstr += '",
+			"} else",
+			"if (",
+			"i < ",
+			") {",
+			"else {",
+			"function() {",
+			"METADATA",
+			"SERVERS",
+			"LAZY_LOADING",
+			"DEBUG_MODE",
+			"DEFAULT_SERVER",
+			" = ",
+			" += ",
+			" = ",
+			" = \"",
+			"===",
+			" = \"",
+			"self.",
+			"self",
+			"self.",
+			"self",
+			"_self.parameters",
+			"...",
+			"adsBox.init();",
+			"adsBox",
+			"isReady",
+			"requestURL",
+			"'maxlength', 255)",
+			"'minlength', 1)"
+		],
+		"reverse": true,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 135.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 162.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"240x32",
+				"s40-theme/css/240x320.css"
+			],
+			[
+				"240x",
+				"s40-theme/css/240x320.css"
+			],
+			[
+				"kis",
+				"s40-theme/css/kismet.css"
+			],
+			[
+				"400",
+				"s40-theme/css/240x400.css"
+			],
+			[
+				"32",
+				"s40-theme/css/240x320.css"
+			],
+			[
+				"240",
+				"s40-theme/css/240x400.css"
+			],
+			[
+				"kism",
+				"s40-theme/css/kismet.css"
+			],
+			[
+				"kscop",
+				"s40-theme/js/KScope.js"
+			],
+			[
+				"kscope",
+				"s40-theme/js/KScope.js"
+			],
+			[
+				"ks",
+				"s40-theme/css/kismet.css"
+			],
+			[
+				"set",
+				"s40-theme/templates/settings.html"
+			],
+			[
+				"log",
+				"s40-theme/js/log.js"
+			],
+			[
+				"home",
+				"app/View/Projects/home.ctp"
+			],
+			[
+				"dashboa",
+				"app/View/Projects/dashboard.ctp"
+			],
+			[
+				"pro",
+				"app/Controller/ProjectsController.php"
+			],
+			[
+				"work",
+				"app/View/Layouts/workflow.ctp"
+			],
+			[
+				"scens",
+				"app/Controller/ScenesController.php"
+			],
+			[
+				"dash",
+				"app/View/Projects/dashboard.ctp"
+			],
+			[
+				"user",
+				"app/Controller/UsersController.php"
+			],
+			[
+				"default",
+				"app/View/Layouts/default.ctp"
+			],
+			[
+				"data",
+				"app/Config/database.php"
+			],
+			[
+				"",
+				"app/logs.txt"
+			],
+			[
+				"defaul",
+				"app/View/Layouts/default.ctp"
+			],
+			[
+				"comm",
+				"app/webroot/js/common.js"
+			],
+			[
+				"admin",
+				"app/webroot/js/admin.js"
+			],
+			[
+				"common",
+				"app/webroot/js/common.js"
+			],
+			[
+				"client",
+				"app/webroot/designs/css/client.css"
+			],
+			[
+				"boot",
+				"app/webroot/js/plugin/bootstrap-1.0/bootstrap-modified.css"
+			],
+			[
+				"package",
+				"app/Controller/Component/PackageComponent.php"
+			],
+			[
+				"projects",
+				"app/Controller/ProjectsController.php"
+			],
+			[
+				"project",
+				"app/Controller/ProjectsController.php"
+			],
+			[
+				"scenecontro",
+				"app/Controller/ScenesController.php"
+			],
+			[
+				"listing.ctp",
+				"app/View/Templates/listing.ctp"
+			],
+			[
+				"index.ctp",
+				"app/View/Webapps/index.ctp"
+			],
+			[
+				"index.ct",
+				"app/View/Users/index.ctp"
+			],
+			[
+				"temp",
+				"app/Controller/TemplatesController.php"
+			],
+			[
+				"widget",
+				"app/Controller/WidgetsController.php"
+			],
+			[
+				"sty",
+				"app/webroot/playground/sass/style.css"
+			],
+			[
+				"core",
+				"app/Config/core.php"
+			],
+			[
+				"mysql.php",
+				"lib/Cake/Model/Datasource/Database/Mysql.php"
+			],
+			[
+				"defa",
+				"setup/default.properties"
+			],
+			[
+				"def",
+				"setup/default.properties"
+			],
+			[
+				"databa",
+				"app/Config/database.php"
+			],
+			[
+				"build",
+				"setup/build.sh"
+			],
+			[
+				"defau",
+				"setup/default.properties"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/chinnapp/Kaleidoscope-WebApp/kscope.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true
+}
