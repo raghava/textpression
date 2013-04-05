@@ -11,6 +11,7 @@ body {
   -webkit-font-smoothing: antialiased;
   width: 720px;
   margin: 20px;
+  background: #e9eaed;
 }
 
 a:link, a:visited {
@@ -356,4 +357,103 @@ header .tagline {
 
 .clearfix {
   zoom: 1;
+}
+
+/* Border & Vignette Setup */
+   
+    figure{
+      position:               relative;
+      display:                block;
+      line-height:            0;
+      width:                  700px;
+      height:                 350px;
+      margin-bottom:          1em;
+      border:                 10px solid #fff;
+      -webkit-box-shadow:     0 .1em .3em rgba(0,0,0,.25);
+      -moz-box-shadow:        0 .1em .3em rgba(0,0,0,.25);
+      overflow: hidden;
+    }
+    
+    figure::before{
+      content:                "";
+      position:               absolute;
+      top:                    -1em;
+      bottom:                 -1em;
+      left:                   -1em;
+      right:                  -1em;
+    
+    }
+
+    figure::before,
+    figure img{
+      outline:                1px solid #ccc;    
+    }
+
+    figure.vignette img{
+      z-index:                1;
+      position:               relative;
+      display:                block;
+      width:                  100%;
+      height:                 100%;
+
+    }
+    
+/* Overlay Method */
+
+    figure.overlay::after{
+      position:               absolute;
+      top:                    0;
+      bottom:                 0;
+      left:                   0;
+      right:                  0;
+      content:                "";
+      z-index:                2;
+      
+      pointer-events:         none; /* "all" disables mouse access to image */
+
+    /* Mozilla Setting */
+      background-image:       -moz-radial-gradient(
+        center, circle contain, rgba(0,0,0,0) 125px, rgba(0,0,0,.5) 250px
+      );
+
+    /* Webkit Setting */
+      background-image:       -webkit-gradient(
+        radial, 50% 50%, 125, 50% 50%, 250, from(rgba(0,0,0,0)), to(rgba(0,0,0,.5))
+        );
+    }
+    
+/* Overlay & Inset Method */
+
+    figure.overlay.inset::after{
+
+    /* Mozilla Settings */
+      -moz-box-shadow:        inset 0 0 150px rgba(0,0,0,.75);    
+      
+    /* Webkit Setting */
+      -webkit-box-shadow:     inset 0 0 150px rgba(0,0,0,.75);
+    }
+
+/* Mask Method */
+    
+    figure.mask{
+      background-color:       #000;
+    }
+
+    figure.mask img{
+      -webkit-mask-box-image: -webkit-gradient(
+        radial, 50% 50%, 125, 50% 50%, 250, from(#fff), to(rgba(0,0,0,.33))
+      );
+    }
+
+  figure > h1{
+    text-align: center;
+    position: absolute;
+    bottom: 50px;
+    width: 100%;
+    color: white;
+    font-size: 3em;
+    text-shadow: 0px 0px 6px #000;
+    z-index: 1000;
+    font-family: 'Qwigley', cursive;
+    font-weight: bold;
 }
